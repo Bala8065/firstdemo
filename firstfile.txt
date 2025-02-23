@@ -1,4 +1,5 @@
 My first file to upload in GIT on 23/02/2025
+Save it and close it 
 Common manual testing techniques: 
 Common of Manual testing techniques are
 * Black Box Testing
